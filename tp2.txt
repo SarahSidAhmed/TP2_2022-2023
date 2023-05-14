@@ -1,3 +1,5 @@
+-------------WORK TO DO----------
+
 PARTIE KHZ:
 
 INSERTION(A)   //INSERT UN NOEUD DANS UN ARB  ---*DEJA FAIT
