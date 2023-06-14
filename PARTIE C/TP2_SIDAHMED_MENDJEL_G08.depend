@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1685473118 source:c:\users\sid33\desktop\c\tp2 2022-2023\tp2_sidahmed_mendjel_g08\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<Time.h>
+
+1686032600 source:c:\users\sid33\desktop\c\tp2 2022-2023\partie c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<Time.h>
+
