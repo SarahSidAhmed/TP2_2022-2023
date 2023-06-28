@@ -1119,7 +1119,7 @@ Pointeur_FAi *F=NULL;
      srand(time(NULL));
      N  =  100;
     /*Varible du nombre de noeud*/
-     M  =  1;
+     M  =  10;
     /*Varible de nombre d'occuration*/
      for( I  =  1 ;I <=  M ; ++I) {
        A1  =  NULL ;
